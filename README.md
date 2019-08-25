@@ -1,4 +1,4 @@
-# appfinanceiro
+# AppFinanceiro
 
 ## Project setup
 ```
